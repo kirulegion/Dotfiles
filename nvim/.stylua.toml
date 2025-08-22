@@ -1,0 +1,6 @@
+# stylua.toml
+column_width = 100      # max line length before wrapping
+indent_type = "Tabs"  # "Spaces" or "Tabs"
+indent_width = 2        # spaces per indent (if indent_type = "Spaces")
+quote_style = "AutoPreferDouble" # string quotes style
+call_parentheses = "None"        # how to handle parentheses in function calls
